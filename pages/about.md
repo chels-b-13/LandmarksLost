@@ -65,12 +65,15 @@ Chelsea: It's OK. Take your time.
 ## Links
 The following links and resources were referred to in the podcast audio:
 
-1. This sample site is based on [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), which can be used to build digital exhibits from scratch.
-2. A list of [places you can look for free, openly-licensed audio for your podcast](https://www.canva.com/design/DAEJvWSiST4/FaBJKdustUaRcDy-oPD1uQ/view)
+1. https://spacing.ca/toronto/2016/12/09/rise-fall-st-lawrence-hall/
 
 ## Acknowledgments
 
 The St. Lawrence Hall is located on the traditional territories of the Mississaugas of the Credit, the Anishnabeg, the Chippewa, the Haudenosaunee and the Wendat peoples and in present-day Tkaronto, at 157 King Street East at the southwest corner of King and Jarvis. The land that would become the St. Lawrence Hall and Market was part of the Toronto Purchase in 1787 by the British who ‘bought’ land claimed by the Mississaugas. I acknowledge its situation on traditional territories not only out of due respect, but because of the history of the site’s heritage designation as part of Canada’s Centennial celebrations, an event intended to consolidate the colonial nation project.
+
+The creators would like to acknowledge assistance and support from:
+
+The York University Libraries' Making & Media Creation Lab
 
 ## References
 

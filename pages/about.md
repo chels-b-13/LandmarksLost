@@ -14,6 +14,9 @@ credits: false
 
 ## Description
 
+It’s the age old mystery–if walls could talk, what would they say? Luckily, I got Chris Bateman, Manager of the Plaques program at Heritage Toronto to talk instead. 
+
+In this podcast, we take a look at one of the oldest buildings in Toronto still in operational use; the St. Lawrence Hall. Discussion around heritage restoration, specific features of the building, as well as future plans for the St. Lawrence Market area take centre stage in this episode.
 
 ## Transcript
 

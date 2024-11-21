@@ -44,7 +44,7 @@ metadata: hist4840-template
 # organization-link: https://library.yorku.ca/
 # organization-logo-banner: 
 # organization-logo-nav: 
-##########
+<link rel="stylesheet" href="assets/css/cb.css">
 # ROBOTS EXCLUDE
 #
 # set noindex to true if you do NOT want Google to index your site

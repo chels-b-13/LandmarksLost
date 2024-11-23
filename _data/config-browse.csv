@@ -1,6 +1,5 @@
-id,field,label,type,order,layout
-title,title,Titles,term,1,list
-date,date,Dates,year,2,list
-location,location,Locations,term,3,list
-format,format,Formats,term,4,list
-source,source,Sources,term,5,list
+field,display_name,btn,hidden,sort_name
+date,Date,,,Date
+creator,Creator,,,
+subject,,true
+location,,true

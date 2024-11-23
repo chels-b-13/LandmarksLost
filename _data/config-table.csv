@@ -1,6 +1,5 @@
-id,field,label,order
-title,title,Title,1
-date,date,Date,2
-location,location,Location,3
-format,format,Format,4
-source,source,Source,5
+field,display_name
+title,Title
+date,Date
+description,Description
+subject,Subjects

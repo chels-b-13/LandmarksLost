@@ -1,6 +1,7 @@
-id,field,label,weight
-title,title,Title,5
-description,description,Description,4
-date,date,Date,3
-location,location,Location,2
-source,source,Source,1
+field,index,display
+title,true,true
+date,true,true
+creator,true,false
+description,true,true
+subject,true,true
+location,true,false

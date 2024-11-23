@@ -1,0 +1,5 @@
+id,label,url,order
+home,Home,/,1
+browse,Browse,/browse/,2
+map,Map,/map/,3
+search,Search,/search/,4

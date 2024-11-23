@@ -1,0 +1,6 @@
+id,field,label,weight
+title,title,Title,5
+description,description,Description,4
+date,date,Date,3
+location,location,Location,2
+source,source,Source,1

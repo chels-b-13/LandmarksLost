@@ -1,0 +1,7 @@
+id,field,label,type,order
+title,title,Title,text,1
+date,date,Date,date,2
+location,location,Location,location,3
+format,format,Format,text,4
+description,description,Description,text,5
+source,source,Source,text,6

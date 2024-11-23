@@ -1,7 +1,15 @@
-id,field,label,type,order
-title,title,Title,text,1
-date,date,Date,date,2
-location,location,Location,location,3
-format,format,Format,text,4
-description,description,Description,text,5
-source,source,Source,text,6
+field,display_name,browse_link,external_link
+title,Title,
+creator,Creator,
+date,Date Created,
+description,Description,
+subject,Subjects,true
+location,Location
+latitude,Latitude
+longitude,Longitude
+source,Source
+identifier,Source Identifier,,
+type,Type,
+format,Format,
+rights,Rights,
+rightsstatement,Rights Statement,,true

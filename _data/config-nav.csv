@@ -1,5 +1,6 @@
-id,label,url,order
-home,Home,/,1
-browse,Browse,/browse/,2
-map,Map,/map/,3
-search,Search,/search/,4
+display_name, stub, dropdown_parent
+Home,/
+Media,/browse.html
+Map,/map.html
+Timeline,/timeline.html
+About,/about.html

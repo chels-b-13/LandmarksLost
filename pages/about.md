@@ -8,10 +8,6 @@ credits: false
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="ross01" %}
-
-{% include feature/nav-menu.html sections="Description;Transcript;Links;Acknowledgments;References" %}
-
 ## Description
 
 It’s the age old mystery–if walls could talk, what would they say? Luckily, I got Chris Bateman, Manager of the Plaques program at Heritage Toronto to talk instead. 

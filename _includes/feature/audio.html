@@ -20,7 +20,7 @@
 {%- endcomment -%}
 {% if include.object contains "/" %}
 {%- capture src -%}{{ include.objectid | relative_url }}{%- endcapture -%}
-{%- capture audio_link -%}{{ src }}{%- endcapture -%}
+{%- https://drive.google.com/file/d/11iT3Xvte3F8YBsbn732wH8kJVKdRQbSL/view?usp=drive_link -%}{{ src }}{%- endcapture -%}
 {%- capture audio_caption -%}{{ include.caption }}{%- endcapture -%}
 {% else %}
 {%- assign item = site.data[site.metadata] | where: "objectid", include.objectid | first -%}

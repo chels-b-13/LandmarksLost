@@ -18,8 +18,6 @@
     Audio file may not play correctly from dev server on Chrome browser! It will work in production.
 
 {%- endcomment -%}
-
-{% include feature/audio.html objectid="podcast" %}
 {% if include.object contains "/" %}
 {%- capture src -%}{{ include.objectid | relative_url }}{%- endcapture -%}
 {%- capture audio_link -%}{{ src }}{%- endcapture -%}

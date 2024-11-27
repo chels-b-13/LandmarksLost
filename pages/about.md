@@ -14,32 +14,37 @@ credits: false
 
 ## Description
 
-This is a brief description of the podcast episode - perhaps an introduction, teaser, or abstract.
-
-## Transcript
-
-If you have a transcript of your podcast's text, this might be a good place to put it! Otherwise, you can delete this section.
+It’s the age old mystery–if walls could talk, what would they say? Luckily, I got Chris Bateman, Manager of the Plaques program at Heritage Toronto to talk instead. In this podcast, we take a look at one of the oldest buildings in Toronto still in operational use; the St. Lawrence Hall. Discussion around heritage restoration, specific features of the building, as well as future plans for the St. Lawrence Market area take centre stage in this episode.
 
 ## Links
-The following links and resources were referred to in in the podcast audio:
+The following links were referred to in the podcast audio:
 
-1. This sample site is based on [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), which can be used to build digital exhibits from scratch.
-2. A list of [places you can look for free, openly-licensed audio for your podcast](https://www.canva.com/design/DAEJvWSiST4/FaBJKdustUaRcDy-oPD1uQ/view)
-
+1. https://spacing.ca/toronto/2016/12/09/rise-fall-st-lawrence-hall/
+   
 ## Acknowledgments
 
-The creators would like to acknowledge assistance and support from:
+The St. Lawrence Hall is located on the traditional territories of the Mississaugas of the Credit, the Anishnabeg, the Chippewa, the Haudenosaunee and the Wendat peoples and in present-day Tkaronto, at 157 King Street East at the southwest corner of King and Jarvis. The land that would become the St. Lawrence Hall and Market was part of the Toronto Purchase in 1787 by the British who ‘bought’ land claimed by the Mississaugas. I acknowledge its situation on traditional territories not only out of due respect, but because of the history of the site’s heritage designation as part of Canada’s Centennial celebrations, an event intended to consolidate the colonial nation project.
+
+I would like to extend my thanks to Chris Bateman for volunteering his time to speak with me and for whom this podcast could not have been possible without.
+
+I would like to acknowledge assistance and support from:
 
 - The York University Libraries' [Making & Media Creation Lab](https://www.library.yorku.ca/ds/)
 
 ## References
 
-Bannerman, Sara. “Canadian Copyright: History, Change, and Potential.” *Canadian Journal of Communication* 36, no. 1 (March 24, 2011). [https://www.cjc-online.ca/index.php/journal/article/view/2321](https://www.cjc-online.ca/index.php/journal/article/view/2321).
+<I>Arthur, Eric Ross. St. Lawrence Hall : A Proposal for the Rehabilitation of St. Lawrence Hall, as a Major Project for Toronto under the National Centennial Act. Toronto: [s.n.], 1963. Accessed through the Clara Thomas Special Collections.
 
-“Digital Piracy – Canadian Copyright Law: Fair Use and Fair Dealing in Canadian Law (Part 2)” *Digital Tattoo*. Accessed June 10, 2020. [https://digitaltattoo.ubc.ca/2018/05/31/digital-piracy-part-2-canadian-copyright-law-fair-use-and-fair-dealing-in-canadian-law/](https://digitaltattoo.ubc.ca/2018/05/31/digital-piracy-part-2-canadian-copyright-law-fair-use-and-fair-dealing-in-canadian-law).
+Bateman, Chris. “The Rise and Fall and Rise of St. Lawrence Hall.” Spacing Toronto, December 9, 2016. https://spacing.ca/toronto/2016/12/09/rise-fall-st-lawrence-hall/.
 
-O’Neill, Patrick B. “View of A History of Dramatic Copyright and Performance Right in Canada to 1924” *Theatre Research in Canada / Recherches Théâtrales Au Canada* 22, no. 2 (2001). [https://journals.lib.unb.ca/index.php/TRIC/article/view/7033/](https://journals.lib.unb.ca/index.php/TRIC/article/view/7033/).
+City of Toronto. “Land Acknowledgement.” City of Toronto, July 5, 2019. https://www.toronto.ca/city-government/accessibility-human-rights/indigenous-affairs-office/land-acknowledgement/
 
-Tawfik, Myra. “History in the Balance: Copyright and Access to Knowledge.” In *“Radical Extremism” to “Balanced Copyright”: Canadian Copyright and the Digital Agenda*, edited by Michael Geist, 69–89. Toronto, Canada: Irwin Law, 2010.
+Hale, Marjorie, Janet Wright, and Stephen  A. Otto. “St. Lawrence Hall.” The Canadian Encyclopedia, February 7, 2006. https://www.thecanadianencyclopedia.ca/en/article/st-lawrence hall#:~:text=In%20the%201870s%2C%20the%20city’s,it%20gradually%20fell%20into%20disrepair.
 
+“St. Lawrence Hall - 1851: Spirit & Voice.” Myseum of Toronto. Accessed November 26, 2024. https://1851.myseumoftoronto.com/st-lawrence-hall/. 
 
+“St. Lawrence Hall National Historic Site of Canada.” Government of Canada. Accessed November 24, 2024. https://www.pc.gc.ca/apps/dfhd/page_nhs_eng.aspx?id=553. 
+
+“St. Lawrence Market District.” City of Toronto, May 29, 2023. https://www.toronto.ca/services-payments/venues-facilities-bookings/booking-city-facilities/st-lawrence-market/. 
+
+“ST. LAWRENCE NEIGHBOURHOOD HERITAGE CONSERVATION DISTRICT PLAN.” City of Toronto, 2015. https://www.toronto.ca/legdocs/mmis/2015/te/bgrd/backgroundfile-84943.pdf 

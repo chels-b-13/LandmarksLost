@@ -46,9 +46,9 @@ The template provides includes to pull your collection objects and metadata into
 
 #### Include an Audio File
 
-- Audio: `{% raw %}{% include feature/audio.html objectid="demo_003" %}{% endraw %}`
+- Audio: `{% raw %}{% include feature/audio.html objectid="podcast" %}{% endraw %}`
 
-{% include feature/audio.html objectid=audiosampleid  %}
+{% include feature/audio.html objectid=podcast  %}
 
 ### Include Bootstrap Features
 
